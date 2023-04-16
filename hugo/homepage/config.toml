@@ -1,0 +1,4 @@
+baseURL = 'https://student.cloud.htl-leonding.ac.at/f.maar/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "paper"
